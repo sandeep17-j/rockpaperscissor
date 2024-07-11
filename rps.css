@@ -1,0 +1,63 @@
+div{
+    float:left;
+  }
+  #div1{
+    width:620px;
+    height:400px;
+    background-color:skyblue;
+  }
+  #justify{
+    text-align:center;
+  }
+  #div2{
+    float:left;
+    width:620px;
+    height:400px;
+    background-color:lightgreen;
+  }
+  #justify1{
+    text-align:center;
+  }
+  #paper{
+    text-align:center;
+  }
+  #text1{
+    text-align:center;
+  }
+  #text2{
+    text-align:center;
+  }
+  #text3{
+    text-align:center;
+  }
+  #text4{
+    text-align:center;
+  }
+  img{
+    margin-left:170px;
+  }
+  #tie{
+    margin-left:450px;
+  }
+  #div3{
+    width:620px;
+    height:400px;
+    background-image:url('https://clipart-library.com/img/1179443.gif');
+  }
+  #left1{
+    margin:150px 0px 0px 150px;
+  }
+  #left2{
+    margin:150px 0px 0px 150px;
+  }
+  #right1{
+    margin:150px 0px 0px 150px;
+  }
+  #right2{
+    margin:150px 0px 0px 150px;
+  }
+  #rock{width:100%;}
+  
+  
+  
+  
